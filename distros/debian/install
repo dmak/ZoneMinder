@@ -1,7 +1,9 @@
 usr/bin
 usr/lib/cgi-bin
+usr/lib/tmpfiles.d
 usr/share/man
 usr/share/perl5/ZoneMinder
 usr/share/perl5/ZoneMinder.pm
 usr/share/zoneminder
+lib/systemd/system
 etc/zm
